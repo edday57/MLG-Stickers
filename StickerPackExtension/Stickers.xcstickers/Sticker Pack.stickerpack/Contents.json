@@ -1,0 +1,74 @@
+{
+  "stickers" : [
+    {
+      "filename" : "1V1Me.sticker"
+    },
+    {
+      "filename" : "8:8M9.sticker"
+    },
+    {
+      "filename" : "420Blaze.sticker"
+    },
+    {
+      "filename" : "Camper.sticker"
+    },
+    {
+      "filename" : "Cheater.sticker"
+    },
+    {
+      "filename" : "DealWivIt.sticker"
+    },
+    {
+      "filename" : "GameOn.sticker"
+    },
+    {
+      "filename" : "GR8Bro.sticker"
+    },
+    {
+      "filename" : "MLG.sticker"
+    },
+    {
+      "filename" : "Noscoped.sticker"
+    },
+    {
+      "filename" : "OMFG.sticker"
+    },
+    {
+      "filename" : "Quickscoped.sticker"
+    },
+    {
+      "filename" : "Rekt.sticker"
+    },
+    {
+      "filename" : "Rematch.sticker"
+    },
+    {
+      "filename" : "ShotsFired.sticker"
+    },
+    {
+      "filename" : "UNoob.sticker"
+    },
+    {
+      "filename" : "UScrub.sticker"
+    },
+    {
+      "filename" : "UWOTM8.sticker"
+    },
+    {
+      "filename" : "Wallbanged.sticker"
+    },
+    {
+      "filename" : "OpTiC.sticker"
+    },
+    {
+      "filename" : "FaZe.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
